@@ -1,0 +1,20 @@
+[<- Back to course](https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/dict/course/freeCodeCamp/Scientific_Computing/README.md)
+
+<p align="center"><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/fcc100.png" /><br>
+</a></p>
+<h1 align="center">Scientific Computing with Python<br><br>Arithmetic Formatter</h1>
+
+<p align="center"><a href="#">
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
+</a></p>
+
+### Getting Started:
+Clone this repository.
+```
+git clone https://github.com/GrandEchoWhiskey/fcc-scicomp-arithmetic-formatter
+```
+Now run the program.
+```
+python main.py
+```
