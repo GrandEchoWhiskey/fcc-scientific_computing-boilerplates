@@ -31,7 +31,7 @@ Name | Description | Technology
   
 ---
 <p align="center"><a href="https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7">
-  <img src="certificate.png" width="90%"/>
+  <img src="data/certificate.png" width="90%"/>
 </a></p>
 
 <!-- Links -->
@@ -39,10 +39,10 @@ Name | Description | Technology
 [fcc_link]: https://www.freecodecamp.org/learn/scientific-computing-with-python
 [certificate_link]: https://www.freecodecamp.org/certification/grandechowhiskey/scientific-computing-with-python-v7
 
-[arithmetic_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-arithmetic-formatter
-[time_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-time-calculator
-[budget_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-budget-app
-[polygon_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-polygon-area-calculator
-[probability_link]: https://github.com/GrandEchoWhiskey/fcc-scicomp-probability-calculator
+[arithmetic_link]:    bpl-1-arithmetic-formatter
+[time_link]:          bpl-2-time-calculator
+[budget_link]:        bpl-3-budget-app
+[polygon_link]:       bpl-4-polygon-area-calculator
+[probability_link]:   bpl-5-probability-calculator
 
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
